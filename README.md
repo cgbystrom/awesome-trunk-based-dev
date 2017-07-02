@@ -12,6 +12,11 @@ For a more in-depth introduction to the idea, I highly recommend the linked site
 
 Since I've been maintaining a list of sites, videos and blog posts on trunk based development, I figured it could be of more use if I made it public instead. It's simply a collection of links :smile: If you'd like to contribute, do send a pull request!
 
+## Monorepo
+
+ * [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) [article, 2016]
+ * [Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE) [video, 2015]
+
 ## Version Control
 
  * [The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/) [blog post, 2017]<br> Microsoft explaining how they moved the Windows code base to Git.
@@ -27,3 +32,6 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Buck](https://buckbuild.com/) [website, 2017] by Facebook
  * [Pants](http://www.pantsbuild.org/) [website, 2017] by Twitter
  * [Crazy Fun Build](https://github.com/SeleniumHQ/selenium/wiki/Crazy-Fun-Build) [docs, 2015]. Used by Selenium, being phased out for Buck.
+ * [Build in the Cloud: Distributing Build Outputs (at Google)](http://google-engtools.blogspot.se/2011/10/build-in-cloud-distributing-build.html) [blog post, 2011]
+ * [Build in the Cloud: Distributing Build Steps (at Google)](http://google-engtools.blogspot.se/2011/09/build-in-cloud-distributing-build-steps.html) [blog post, 2011]
+ * [Build in the Cloud: How the Build System works (at Google)](http://google-engtools.blogspot.se/2011/08/build-in-cloud-how-build-system-works.html) [blog post, 2011]
