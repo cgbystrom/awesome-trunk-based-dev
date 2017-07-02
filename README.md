@@ -20,3 +20,10 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Scaling Source Control at Facebook](https://www.youtube.com/watch?v=Dlguc63cRXg) [video, 2014]
  * [Still All on One Server: Perforce at Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf) [paper pdf, 2011]
  * [Still All on One Server: Perforce at Scale](http://info.perforce.com/rs/perforce/images/stillallononeserver.pdf) [slides pdf, 2011]
+
+## Build Systems
+
+ * [Bazel](https://bazel.build/) [website, 2017] by Google
+ * [Buck](https://buckbuild.com/) [website, 2017] by Facebook
+ * [Pants](http://www.pantsbuild.org/) [website, 2017] by Twitter
+ * [Crazy Fun Build](https://github.com/SeleniumHQ/selenium/wiki/Crazy-Fun-Build) [docs, 2015]. Used by Selenium, being phased out for Buck.
