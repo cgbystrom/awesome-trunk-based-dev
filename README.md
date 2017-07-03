@@ -49,3 +49,14 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Building Software at Google Scale: Bazel](https://www.youtube.com/watch?v=6GCDfoAOKIY) [video, 2016]
  * [Bazel: Google’s extensible, multilingual, scalable build system](https://atscaleconference.com/videos/bazel-googles-extensible-multilingual-scalable-build-system/) [video, 2017]
  * [Building a Distributed Build System at Google Scale](https://www.youtube.com/watch?v=y0IutoPKTNE) [video, 2016]
+
+
+## Contributing
+
+Pull requests are more than welcome. The common theme above are challenges that arise when scaling the number of developers while keeping a central infrastructure (be it VCS, build systems, CI servers and so on).
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Carl Byström](http://cgbystrom.com) has waived all copyright and related or neighboring rights to this work.
