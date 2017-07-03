@@ -12,6 +12,11 @@ For a more in-depth introduction to the idea, I highly recommend the linked site
 
 Since I've been maintaining a list of sites, videos and blog posts on trunk based development, I figured it could be of more use if I made it public instead. It's simply a collection of links :smile: If you'd like to contribute, do send a pull request!
 
+## Trunk based development
+
+ * [Trunk-Based Development](https://trunkbaseddevelopment.com/) [website, 2017]
+ * [Trunk-Based Development Economics](https://www.youtube.com/watch?v=meB_SWzZm8M) [video, 2017]
+
 ## Monorepo
 
  * [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) [article, 2016]
@@ -26,6 +31,9 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Still All on One Server: Perforce at Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf) [paper pdf, 2011]
  * [Still All on One Server: Perforce at Scale](http://info.perforce.com/rs/perforce/images/stillallononeserver.pdf) [slides pdf, 2011]
  * [Git Virtual File System](https://atscaleconference.com/videos/git-virtual-file-system/) [video, 2017]
+ * [Scaling Git at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s) [video, 2017]
+ * [Scaling Git at Twitter](https://www.youtube.com/watch?v=bjh4DHuOf4E) [video, 2015]
+ * [Git at Google: Making Big Projects (and Everyone Else) Happy](https://www.youtube.com/watch?v=cY34mr71ky8) [video, 2015]
 
 ## Builds and Continuous Integration
 
@@ -40,3 +48,4 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Building Software at Google Scale Tech Talk](https://www.youtube.com/watch?v=2qv3fcXW1mg) [video, 2012]
  * [Building Software at Google Scale: Bazel](https://www.youtube.com/watch?v=6GCDfoAOKIY) [video, 2016]
  * [Bazel: Google’s extensible, multilingual, scalable build system](https://atscaleconference.com/videos/bazel-googles-extensible-multilingual-scalable-build-system/) [video, 2017]
+ * [Building a Distributed Build System at Google Scale](https://www.youtube.com/watch?v=y0IutoPKTNE) [video, 2016]
