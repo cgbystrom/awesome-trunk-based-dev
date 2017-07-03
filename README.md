@@ -1,4 +1,4 @@
-# Awesome trunk based development
+# Awesome trunk based development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of everything related to trunk based development.
 
 
@@ -10,7 +10,7 @@ A short summary taken from [trunkbaseddevelopment.com](https://trunkbaseddevelop
 
 For a more in-depth introduction to the idea, I highly recommend the linked site above by [Paul Hammant](https://paulhammant.com/).
 
-Since I've been maintaining a list of sites, videos and blog posts on trunk based development, I figured it could be of more use if I made it public instead. It's simply a collection of links :smile: If you'd like to contribute, do send a pull request!
+Since I've been maintaining a list of sites, videos and blog posts on trunk based development, I figured it could be of more use if I made it public instead. It's simply a collection of links on this topic :smile: If you'd like to contribute, do send a pull request!
 
 ## Trunk based development
 
