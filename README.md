@@ -25,8 +25,9 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Scaling Source Control at Facebook](https://www.youtube.com/watch?v=Dlguc63cRXg) [video, 2014]
  * [Still All on One Server: Perforce at Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf) [paper pdf, 2011]
  * [Still All on One Server: Perforce at Scale](http://info.perforce.com/rs/perforce/images/stillallononeserver.pdf) [slides pdf, 2011]
+ * [Git Virtual File System](https://atscaleconference.com/videos/git-virtual-file-system/) [video, 2017]
 
-## Build Systems
+## Builds and Continuous Integration
 
  * [Bazel](https://bazel.build/) [website, 2017] by Google
  * [Buck](https://buckbuild.com/) [website, 2017] by Facebook
@@ -35,3 +36,7 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Build in the Cloud: Distributing Build Outputs (at Google)](http://google-engtools.blogspot.se/2011/10/build-in-cloud-distributing-build.html) [blog post, 2011]
  * [Build in the Cloud: Distributing Build Steps (at Google)](http://google-engtools.blogspot.se/2011/09/build-in-cloud-distributing-build-steps.html) [blog post, 2011]
  * [Build in the Cloud: How the Build System works (at Google)](http://google-engtools.blogspot.se/2011/08/build-in-cloud-how-build-system-works.html) [blog post, 2011]
+ * [Tools for Continuous Integration at Google Scale](https://www.youtube.com/watch?v=KH2_sB1A6lA) [video, 2012]
+ * [Building Software at Google Scale Tech Talk](https://www.youtube.com/watch?v=2qv3fcXW1mg) [video, 2012]
+ * [Building Software at Google Scale: Bazel](https://www.youtube.com/watch?v=6GCDfoAOKIY) [video, 2016]
+ * [Bazel: Google’s extensible, multilingual, scalable build system](https://atscaleconference.com/videos/bazel-googles-extensible-multilingual-scalable-build-system/) [video, 2017]
