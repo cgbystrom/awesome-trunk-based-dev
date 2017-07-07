@@ -18,6 +18,8 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Trunk-Based Development Economics](https://www.youtube.com/watch?v=meB_SWzZm8M) [video, 2017]
  * [How Google Builds Web Frameworks](https://medium.freecodecamp.org/how-google-builds-a-web-framework-5eeddd691dea) [blog post, 2017]
  * [How Chromium Works](https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b) [blog post, 2015]
+ * [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html) [article, 2016]
+ * [Branch By Abstraction](https://martinfowler.com/bliki/BranchByAbstraction.html) [article, 2014]
 
 ## Monorepo
 
