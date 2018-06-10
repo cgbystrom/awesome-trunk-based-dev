@@ -61,6 +61,7 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Bazel - A Brief Overview](https://www.youtube.com/watch?v=m9Vypu4AYc4) [video, 2018]
  * [Skylark - The Bazel Extensibility Language](https://www.youtube.com/watch?v=xLgIKcbF6SA) [video, 2017]
  * [Your Build in a Datacenter - Remote Caching and Execution in Bazel](https://www.youtube.com/watch?v=PrTun05W5g4) [video, 2018]
+ * [Pants and Monorepos](https://www.youtube.com/watch?v=IL6LBWNi3fE) [video, 2018]
 
 
 ## Contributing
