@@ -55,6 +55,8 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Building Software at Google Scale: Bazel](https://www.youtube.com/watch?v=6GCDfoAOKIY) [video, 2016]
  * [Bazel: Google’s extensible, multilingual, scalable build system](https://atscaleconference.com/videos/bazel-googles-extensible-multilingual-scalable-build-system/) [video, 2017]
  * [Building a Distributed Build System at Google Scale](https://www.youtube.com/watch?v=y0IutoPKTNE) [video, 2016]
+ * [Bazel for building Angular applications](https://www.youtube.com/watch?v=KmaE6z_ECRg) [video, 2018]
+ * [Videos from BazelCon 2017](https://www.youtube.com/playlist?list=PLxNYxgaZ8RseY0KmkXQSt0StE71E7yizG) [video, 2017]
 
 
 ## Contributing
