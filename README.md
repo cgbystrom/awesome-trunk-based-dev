@@ -57,6 +57,10 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Building a Distributed Build System at Google Scale](https://www.youtube.com/watch?v=y0IutoPKTNE) [video, 2016]
  * [Bazel for building Angular applications](https://www.youtube.com/watch?v=KmaE6z_ECRg) [video, 2018]
  * [Videos from BazelCon 2017](https://www.youtube.com/playlist?list=PLxNYxgaZ8RseY0KmkXQSt0StE71E7yizG) [video, 2017]
+ * [Bazel - How to build at Google Scale? FOSDEM 2017](https://www.youtube.com/watch?v=lOUwu0myF8M) [video, 2017]
+ * [Bazel - A Brief Overview](https://www.youtube.com/watch?v=m9Vypu4AYc4) [video, 2018]
+ * [Skylark - The Bazel Extensibility Language](https://www.youtube.com/watch?v=xLgIKcbF6SA) [video, 2017]
+ * [Your Build in a Datacenter - Remote Caching and Execution in Bazel](https://www.youtube.com/watch?v=PrTun05W5g4) [video, 2018]
 
 
 ## Contributing
