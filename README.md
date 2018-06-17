@@ -27,6 +27,7 @@ Since I've been maintaining a list of sites, videos and blog posts on trunk base
  * [Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE) [video, 2015]
  * [Go in a Monorepo](https://blog.gopheracademy.com/advent-2015/go-in-a-monorepo/) [blog post, 2015]. Digital Ocean's use of monorepo for Go
  * [Cthulhu: Organizing Go Code in a Scalable Repo](https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/) [blog post, 2017]. Describes Digital Ocean's monorepo.
+ * [Billions of lines of code in a single repository, SRSLY?](https://www.youtube.com/watch?v=yM0GQw1zgrA) [video, 2016]
 
 ## Version Control
 
